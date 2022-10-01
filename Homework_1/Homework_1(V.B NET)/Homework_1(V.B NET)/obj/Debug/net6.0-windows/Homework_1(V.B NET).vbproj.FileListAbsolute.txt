@@ -1,0 +1,17 @@
+C:\Users\Utente\Desktop\Homework_1(V.B NET)\Homework_1(V.B NET)\bin\Debug\net6.0-windows\Homework_1(V.B NET).exe
+C:\Users\Utente\Desktop\Homework_1(V.B NET)\Homework_1(V.B NET)\bin\Debug\net6.0-windows\Homework_1(V.B NET).deps.json
+C:\Users\Utente\Desktop\Homework_1(V.B NET)\Homework_1(V.B NET)\bin\Debug\net6.0-windows\Homework_1(V.B NET).runtimeconfig.json
+C:\Users\Utente\Desktop\Homework_1(V.B NET)\Homework_1(V.B NET)\bin\Debug\net6.0-windows\Homework_1(V.B NET).dll
+C:\Users\Utente\Desktop\Homework_1(V.B NET)\Homework_1(V.B NET)\bin\Debug\net6.0-windows\Homework_1(V.B NET).pdb
+C:\Users\Utente\Desktop\Homework_1(V.B NET)\Homework_1(V.B NET)\obj\Debug\net6.0-windows\Homework_1(V.B NET).vbproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Homework_1(V.B NET)\Homework_1(V.B NET)\obj\Debug\net6.0-windows\Homework_1_V.B_NET_.Form1.resources
+C:\Users\Utente\Desktop\Homework_1(V.B NET)\Homework_1(V.B NET)\obj\Debug\net6.0-windows\Homework_1(V.B NET).vbproj.GenerateResource.cache
+C:\Users\Utente\Desktop\Homework_1(V.B NET)\Homework_1(V.B NET)\obj\Debug\net6.0-windows\Homework_1(V.B NET).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\Homework_1(V.B NET)\Homework_1(V.B NET)\obj\Debug\net6.0-windows\Homework_1(V.B NET).AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\Homework_1(V.B NET)\Homework_1(V.B NET)\obj\Debug\net6.0-windows\Homework_1(V.B NET).AssemblyInfo.vb
+C:\Users\Utente\Desktop\Homework_1(V.B NET)\Homework_1(V.B NET)\obj\Debug\net6.0-windows\Homework_1(V.B NET).vbproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Homework_1(V.B NET)\Homework_1(V.B NET)\obj\Debug\net6.0-windows\Homework_1(V.B NET).dll
+C:\Users\Utente\Desktop\Homework_1(V.B NET)\Homework_1(V.B NET)\obj\Debug\net6.0-windows\refint\Homework_1(V.B NET).dll
+C:\Users\Utente\Desktop\Homework_1(V.B NET)\Homework_1(V.B NET)\obj\Debug\net6.0-windows\Homework_1(V.B NET).pdb
+C:\Users\Utente\Desktop\Homework_1(V.B NET)\Homework_1(V.B NET)\obj\Debug\net6.0-windows\Homework_1(V.B NET).genruntimeconfig.cache
+C:\Users\Utente\Desktop\Homework_1(V.B NET)\Homework_1(V.B NET)\obj\Debug\net6.0-windows\ref\Homework_1(V.B NET).dll
