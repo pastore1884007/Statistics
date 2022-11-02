@@ -1,0 +1,17 @@
+C:\Users\Utente\Desktop\myColumnChart\myColumnChart\bin\Debug\net6.0-windows\myColumnChart.exe
+C:\Users\Utente\Desktop\myColumnChart\myColumnChart\bin\Debug\net6.0-windows\myColumnChart.deps.json
+C:\Users\Utente\Desktop\myColumnChart\myColumnChart\bin\Debug\net6.0-windows\myColumnChart.runtimeconfig.json
+C:\Users\Utente\Desktop\myColumnChart\myColumnChart\bin\Debug\net6.0-windows\myColumnChart.dll
+C:\Users\Utente\Desktop\myColumnChart\myColumnChart\bin\Debug\net6.0-windows\myColumnChart.pdb
+C:\Users\Utente\Desktop\myColumnChart\myColumnChart\obj\Debug\net6.0-windows\myColumnChart.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\myColumnChart\myColumnChart\obj\Debug\net6.0-windows\myColumnChart.Form1.resources
+C:\Users\Utente\Desktop\myColumnChart\myColumnChart\obj\Debug\net6.0-windows\myColumnChart.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\myColumnChart\myColumnChart\obj\Debug\net6.0-windows\myColumnChart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\myColumnChart\myColumnChart\obj\Debug\net6.0-windows\myColumnChart.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\myColumnChart\myColumnChart\obj\Debug\net6.0-windows\myColumnChart.AssemblyInfo.cs
+C:\Users\Utente\Desktop\myColumnChart\myColumnChart\obj\Debug\net6.0-windows\myColumnChart.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\myColumnChart\myColumnChart\obj\Debug\net6.0-windows\myColumnChart.dll
+C:\Users\Utente\Desktop\myColumnChart\myColumnChart\obj\Debug\net6.0-windows\refint\myColumnChart.dll
+C:\Users\Utente\Desktop\myColumnChart\myColumnChart\obj\Debug\net6.0-windows\myColumnChart.pdb
+C:\Users\Utente\Desktop\myColumnChart\myColumnChart\obj\Debug\net6.0-windows\myColumnChart.genruntimeconfig.cache
+C:\Users\Utente\Desktop\myColumnChart\myColumnChart\obj\Debug\net6.0-windows\ref\myColumnChart.dll
