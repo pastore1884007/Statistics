@@ -1,0 +1,17 @@
+C:\Users\Utente\Desktop\Homework7_ex1\Homework7_ex1\bin\Debug\net6.0-windows\Homework7_ex1.exe
+C:\Users\Utente\Desktop\Homework7_ex1\Homework7_ex1\bin\Debug\net6.0-windows\Homework7_ex1.deps.json
+C:\Users\Utente\Desktop\Homework7_ex1\Homework7_ex1\bin\Debug\net6.0-windows\Homework7_ex1.runtimeconfig.json
+C:\Users\Utente\Desktop\Homework7_ex1\Homework7_ex1\bin\Debug\net6.0-windows\Homework7_ex1.dll
+C:\Users\Utente\Desktop\Homework7_ex1\Homework7_ex1\bin\Debug\net6.0-windows\Homework7_ex1.pdb
+C:\Users\Utente\Desktop\Homework7_ex1\Homework7_ex1\obj\Debug\net6.0-windows\Homework7_ex1.vbproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Homework7_ex1\Homework7_ex1\obj\Debug\net6.0-windows\Homework7_ex1.Form1.resources
+C:\Users\Utente\Desktop\Homework7_ex1\Homework7_ex1\obj\Debug\net6.0-windows\Homework7_ex1.vbproj.GenerateResource.cache
+C:\Users\Utente\Desktop\Homework7_ex1\Homework7_ex1\obj\Debug\net6.0-windows\Homework7_ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\Homework7_ex1\Homework7_ex1\obj\Debug\net6.0-windows\Homework7_ex1.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\Homework7_ex1\Homework7_ex1\obj\Debug\net6.0-windows\Homework7_ex1.AssemblyInfo.vb
+C:\Users\Utente\Desktop\Homework7_ex1\Homework7_ex1\obj\Debug\net6.0-windows\Homework7_ex1.vbproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Homework7_ex1\Homework7_ex1\obj\Debug\net6.0-windows\Homework7_ex1.dll
+C:\Users\Utente\Desktop\Homework7_ex1\Homework7_ex1\obj\Debug\net6.0-windows\refint\Homework7_ex1.dll
+C:\Users\Utente\Desktop\Homework7_ex1\Homework7_ex1\obj\Debug\net6.0-windows\Homework7_ex1.pdb
+C:\Users\Utente\Desktop\Homework7_ex1\Homework7_ex1\obj\Debug\net6.0-windows\Homework7_ex1.genruntimeconfig.cache
+C:\Users\Utente\Desktop\Homework7_ex1\Homework7_ex1\obj\Debug\net6.0-windows\ref\Homework7_ex1.dll
