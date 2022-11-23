@@ -1,0 +1,17 @@
+C:\Users\Utente\Desktop\Hmw8_2\Hmw8_2\bin\Debug\net6.0-windows\Hmw8_2.exe
+C:\Users\Utente\Desktop\Hmw8_2\Hmw8_2\bin\Debug\net6.0-windows\Hmw8_2.deps.json
+C:\Users\Utente\Desktop\Hmw8_2\Hmw8_2\bin\Debug\net6.0-windows\Hmw8_2.runtimeconfig.json
+C:\Users\Utente\Desktop\Hmw8_2\Hmw8_2\bin\Debug\net6.0-windows\Hmw8_2.dll
+C:\Users\Utente\Desktop\Hmw8_2\Hmw8_2\bin\Debug\net6.0-windows\Hmw8_2.pdb
+C:\Users\Utente\Desktop\Hmw8_2\Hmw8_2\obj\Debug\net6.0-windows\Hmw8_2.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Hmw8_2\Hmw8_2\obj\Debug\net6.0-windows\Hmw8_2.Form1.resources
+C:\Users\Utente\Desktop\Hmw8_2\Hmw8_2\obj\Debug\net6.0-windows\Hmw8_2.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\Hmw8_2\Hmw8_2\obj\Debug\net6.0-windows\Hmw8_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\Hmw8_2\Hmw8_2\obj\Debug\net6.0-windows\Hmw8_2.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\Hmw8_2\Hmw8_2\obj\Debug\net6.0-windows\Hmw8_2.AssemblyInfo.cs
+C:\Users\Utente\Desktop\Hmw8_2\Hmw8_2\obj\Debug\net6.0-windows\Hmw8_2.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Hmw8_2\Hmw8_2\obj\Debug\net6.0-windows\Hmw8_2.dll
+C:\Users\Utente\Desktop\Hmw8_2\Hmw8_2\obj\Debug\net6.0-windows\refint\Hmw8_2.dll
+C:\Users\Utente\Desktop\Hmw8_2\Hmw8_2\obj\Debug\net6.0-windows\Hmw8_2.pdb
+C:\Users\Utente\Desktop\Hmw8_2\Hmw8_2\obj\Debug\net6.0-windows\Hmw8_2.genruntimeconfig.cache
+C:\Users\Utente\Desktop\Hmw8_2\Hmw8_2\obj\Debug\net6.0-windows\ref\Hmw8_2.dll
