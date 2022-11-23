@@ -50,7 +50,7 @@ namespace Hmw8_1
         private void trackBar1_Scroll(object sender, EventArgs e)
         {
             numberOfPoints = trackBar1.Value;
-            label1.Text = "# points : " + numberOfPoints.ToString();
+            label1.Text = "Number of points : " + numberOfPoints.ToString();
         }
 
         public int FromYRealToYVirtual(double Y, double minY, double maxY, int T, int H)
